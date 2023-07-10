@@ -1,8 +1,9 @@
-Hi Welcome! 👋 My name is Marcelino Saquende
+Hi! 👋 My name is Marcelino Saquende
 ===================================
 
-Full Stack Web Developer
-------------------------
+
+I'm Full Stack Web Developer
+----------------------------
 
 * 🌍  I'm based in Luanda, Angola.
 * ✉️  You can contact me at [msaquende18@gmail.com](mailto:msaquende18@gmail.com)
